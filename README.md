@@ -1,4 +1,4 @@
-# The Splunk Software Development Kit for PHP (Deprecated)
+# The Splunk Software Development Kit for PHP 
 
 #### Version 1.0
 
